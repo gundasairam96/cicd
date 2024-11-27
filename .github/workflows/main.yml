@@ -31,7 +31,7 @@ jobs:
         # Tenant Code displayed in the Profile section of ACCELQ
         tenantCode: "accelq"
         # This ID should come from the CI job you saved in ACCELQ application
-        jobId: "44"
+        jobId: "48"
         # Run Params(optional) should be JSON string form example: '{"username": "John Todd", "password": "bxW&=UVw"}'
         runParam: # optional
         # Proxy Host (optional)
